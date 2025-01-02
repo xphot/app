@@ -1,1 +1,1 @@
-# Explainability supported by Hypergraphs of Thoughts
+# eXPlainability supported by Hypergraphs of Thoughts
